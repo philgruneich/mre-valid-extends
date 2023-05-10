@@ -1,0 +1,20 @@
+{
+  "name": "mre-valid-extends",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "docs": "vue-docgen"
+  },
+  "dependencies": {
+    "primevue": "^3.28.0",
+    "vue": "^3.2.47"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.1",
+    "vite": "^4.3.4",
+    "vue-docgen-cli": "^4.67.0"
+  }
+}
