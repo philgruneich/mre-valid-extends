@@ -3,7 +3,6 @@ export default {
     name: 'Example',
     props: {
         msg: {
-
             type: String,
             default: "MESSAGE"
         }
